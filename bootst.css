@@ -1,0 +1,124 @@
+ @import url('https://fonts.googleapis.com/css2?family=Monoton&family=Roboto:ital,wght@0,900;1,700&display=swap');
+ 
+ .police{
+        font-family: cursive;
+       
+
+ }
+
+ .police4{color: #D2B48C;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 36px;
+            font-weight: 200;
+
+ }
+
+ .police5{color: #D2B48C;
+    font-family: cursive;
+    font-size: 23px;
+    font-weight: 100;}
+
+ .police2{
+        font-family: serif;
+ }
+
+.c-new{
+        background-color: rgba(0, 0, 0, 0.5);
+        font-family: serif;
+       box-shadow:1px 1px 3px rgba(244, 240, 240, 0.735);
+       z-index: 99;
+}
+
+.c-new .nav-link{
+                border-bottom: 1px solid transparent;
+                transition: padding-bottom .5s ease-in-out, border-color .3s ease;
+
+}
+
+.c-new .nav-link:hover{
+                        padding-bottom: 20px;
+                        border-bottom-color:#D2B48C ;
+
+}
+
+.titre3{
+        background:linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)),url("resto.jpg") ;
+        height: 850px;
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+.titre3 .banner{
+                font-size: 48px;
+                font-weight: 400;
+                color: white;
+}
+
+.btn-order{
+            color:  #D2B48C;
+            border-color: #D2B48C;
+            transition: 1s;
+
+}
+.btn-order:hover,
+.btn-order:active{
+                    color: white;
+                    background-color:#D2B48C;
+}
+
+.new-menu{ background:linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)),url("menu.jpg") ;
+           height: 1000px;
+           background-attachment: fixed;
+           background-size: cover;
+
+}
+
+.titre{
+    background:linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)),url("tittre4.jpg") ;
+    height: 850px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.titre5{
+    background:linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5));
+     /* height: 850px;
+    background-attachment: fixed;
+    background-size: cover; */
+    color: #D2B48C;
+   background-color: black;
+}
+
+.promo{ background:linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5));
+        background-attachment: fixed;
+        background-size: cover;
+
+}
+ .promo1{background-attachment: fixed;
+        background-size: cover;}
+
+       
+       .container43{
+                    /* min-height: 100vh; */
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: row;
+       }
+
+       .card43{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-wrap: wrap;
+                margin: 30px;
+               margin-bottom: ;
+               
+
+       }
+
+  
+
+
+     
+      

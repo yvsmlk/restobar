@@ -1,4 +1,4 @@
-
+# interface
 # Restaurant Interface
 
 <img width="1418" alt="interface" src="https://github.com/yvsmlk/interface/assets/118189708/37bfa079-ee47-4761-bcc3-3c75f8472a7d">
@@ -27,3 +27,13 @@ The restaurant interface is designed to provide users with a user-friendly and v
 2. Open the `index.html` file in your web browser.
 
 ## Author
+
+This project was created by yvsmlk.
+
+## Additional Resources
+
+- [Bootstrap Documentation](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
