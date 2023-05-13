@@ -2,7 +2,6 @@
 # Restaurant Interface
 
 <img width="1418" alt="interface" src="https://github.com/yvsmlk/interface/assets/118189708/37bfa079-ee47-4761-bcc3-3c75f8472a7d">
-
 This project is a restaurant interface created using Bootstrap and CSS.
 
 ## Description
