@@ -1,7 +1,7 @@
 # interface
 # Restaurant Interface
 
-<img width="1319" alt="interface1" src="https://github.com/yvsmlk/resto/assets/118189708/2c369dd8-39d1-4ec9-af64-f5b4825f7eb4">
+<img width="1440" alt="Capture d’écran 2023-06-08 à 10 03 24 AM" src="https://github.com/yvsmlk/restobar/assets/118189708/9b6f4cbf-4547-46d6-bf5a-17d0d1d860b1">
 
 This project is a restaurant interface created using Bootstrap and CSS.
 
